@@ -34,8 +34,7 @@ describe "temperature conversion functions" do
 
   end
 
-  # Now this set of tests describes a different method, 
-  # not ftoc() anymore, but ctof(). 
+  # Now this set of tests describes a different method, t  # not ftoc() anymore, but ctof(). 
   describe "#ctof" do
 
     it "converts freezing temperature" do
